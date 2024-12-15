@@ -9,8 +9,6 @@ This repository contains two essential algorithms implemented from scratch in Py
 - [2. Predicting Student Admissions with Neural Networks](#2-predicting-student-admissions-with-neural-networks)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -89,26 +87,10 @@ pip install numpy pandas matplotlib
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/neural-networks.git
+    git clone https://github.com/naoufalcb/neural-networks.git
     cd neural-networks
     ```
 
 2. Open the notebooks (`gradient_descent.ipynb` and `student_admissions.ipynb`) in your Jupyter Notebook or any Python IDE of your choice.
 
 3. Follow the instructions inside each notebook to execute the code and visualize the results.
-
----
-
-## Contributing
-
-Contributions are welcome! If you'd like to improve the code or suggest features, please feel free to fork the repository and submit a pull request. If you find any issues, you can open an issue on the GitHub page.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify this template further based on your repository details.
